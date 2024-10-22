@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Germán</h1>
 <h3 align="center">A Physics student at Madrid</h3>
 
-- 🔭 I’m currently working on **my very own OS**
+- 🔭 I’m currently working on **my project CUtils**
 
-- 🌱 I’m currently learning **about kernel development!**
+- 🌱 I’m currently learning **Statistical Physics**
 
 - 👯 I’m looking to collaborate on **Physics related software development**
 
-- 🤝 I’m looking for help with **developing the perfect OS for professional Physicists**
-
-- 💬 Ask me about **field theories and programming / coding in general!**
+- 💬 Ask me about **Physics and low-level or scientific programming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
